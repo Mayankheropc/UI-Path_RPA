@@ -5,6 +5,8 @@ This Repo contain the bot which can be used to find whether the student is eligi
 
 JECRC BOTATHONE 2.0 COMPETETION in colabration with UI PATH 
 
+BOTATHON 2.0 is an initiative by JECRC University aimed at providing students with a platform to create interesting BOTS using Robotics Process Automation (RPA) Technologies which can be used to resolve peculiar problems of the academia domain, for day-to-day tasks, that involve lots of repetitive and laborious work; thereby freeing the human resources for better productivity and intellectual tasks.
+
 this is a bot making competetion organised by JECRC university, Jaipur
 it is a 3 day competetion starting from 11 march 2022 to 13 march 2022 
 there were total 150+ teams from all over India and a unique task is assigned to every team and then the bot will be tested and then the jury will decide the result.
