@@ -13,7 +13,7 @@ we
 {
   I Mayank Singh (Team Leader)
   Chitransh Madavi (https://github.com/?)
-  Harshad Lande (https://github.com/?)
+  Harshad Lande (https://github.com/Harshad1705)
 }
 were sellected in top 25+ out of 150+ teams and bellow is the task assigned to my team:
 
