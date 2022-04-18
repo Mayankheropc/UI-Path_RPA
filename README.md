@@ -4,6 +4,7 @@ This Repo contain the bot which can be used to find whether the student is eligi
 
 
 JECRC BOTATHONE 2.0 COMPETETION in colabration with UI PATH 
+
 this is a bot making competetion organised by JECRC university, Jaipur
 it is a 3 day competetion starting from 11 march 2022 to 13 march 2022 
 there were total 150+ teams from all over India and a unique task is assigned to every team and then the bot will be tested and then the jury will decide the result.
