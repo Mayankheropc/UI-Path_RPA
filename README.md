@@ -11,7 +11,7 @@ there were total 150+ teams from all over India and a unique task is assigned to
 
 we
 {
-  Mayank Singh (me)
+  I Mayank Singh (Team Leader)
   Chitransh Madavi (https://github.com/?)
   Harshad Lande (https://github.com/?)
 }
