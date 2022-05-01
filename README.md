@@ -17,7 +17,7 @@ we
   Chitransh Madavi (https://github.com/Chitzmad)
   Harshad Lande (https://github.com/Harshad1705)
 }
-were sellected in top 25+ out of 150+ teams and bellow is the task assigned to my team:
+were selected in top 25+ out of 150+ teams and bellow is the task assigned to my team:
 
 
 
